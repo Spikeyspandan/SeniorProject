@@ -1,5 +1,5 @@
 # HandGesture
-#Objectives
+# Objectives
 The goal of this project is to create a Gesture based software for controlling mouse and keyboard.
 
 # Requirements
@@ -11,7 +11,7 @@ The goal of this project is to create a Gesture based software for controlling m
 - For **TensorFlow**, type **`pip install tensorflow`** in command prompt
 - For **PyQT5** type **,`pip install PyQt5`** in command prompt
 
-#Test
+# Test
 - Run gui1.py
 - To run the code, type **`python gui1.py`** in terminal
 
