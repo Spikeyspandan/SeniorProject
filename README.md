@@ -17,3 +17,6 @@ The goal of this project is to create a Gesture based software for controlling m
 - Run gui1.py
 - To run the code, type **`python gui1.py`** in terminal
 
+# Demo
+- <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-823ee0aa42.gif">
+
