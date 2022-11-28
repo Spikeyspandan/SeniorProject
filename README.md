@@ -19,8 +19,8 @@ The goal of this project is to create a Gesture based software for controlling m
 
 # Demo
 - Mouse Control 
-- <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-823ee0aa42.gif">
+ <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-823ee0aa42.gif">
 - Scroll Up and Down
-- <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-926a8c872e.gif">
+ <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-926a8c872e.gif">
 - Drag and Drop
-- <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-c08a6a2df7.gif">
+ <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-c08a6a2df7.gif">
