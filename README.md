@@ -18,9 +18,9 @@ The goal of this project is to create a Gesture based software for controlling m
 - To run the code, type **`python gui1.py`** in terminal
 
 # Demo
-- Mouse Control 
+ Mouse Control 
  <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-823ee0aa42.gif">
-- Scroll Up and Down
+ Scroll Up and Down
  <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-926a8c872e.gif">
-- Drag and Drop
+ Drag and Drop
  <img src = "https://github.com/Spikeyspandan/SeniorProject/blob/main/Demos/ezgif-2-c08a6a2df7.gif">
