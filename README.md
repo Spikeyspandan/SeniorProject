@@ -10,7 +10,7 @@ The goal of this project is to create a Gesture based software for controlling m
 - For **Mediapipe**, type **`pip install mediapipe`** in command prompt
 - For **TensorFlow**, type **`pip install tensorflow`** in command prompt
 - For **PyQT5** type **,`pip install PyQt5`** in command prompt
-- Download [final_hand_model.h5 from the google drive](https://drive.google.com/file/d/1vAoISPg1hA_twqAr8347KlFU8rUr9-uq/view?usp=sharing)  and paste in workfolder.
+- Download [final_hand_model.h5 from the google drive](https://drive.google.com/file/d/1muPkiQTiDoCz6UP4-RlK4zpR9pXLfdSN/view?usp=share_link)  and paste in workfolder.
 - To create a new model, download dataset. For sample dataset, [download from kaggle](https://www.kaggle.com/datasets/kapillondhe/american-sign-language)
 
 # Test
